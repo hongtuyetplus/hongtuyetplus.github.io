@@ -1579,3 +1579,8 @@ nav#filter li {
 .isotopeWrapper article {
 	margin: 0px;
 }
+#head-news {
+    overflow: hidden;
+    text-align: center;
+    margin-bottom: 15px;
+}
