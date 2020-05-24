@@ -818,10 +818,12 @@ left: 2px;
 }
 /* --Portfolio----- */
 #work {
- background:rgb(34, 34, 34);
+ background:rgb(191, 250, 247);
 }
 #work h2 { 
-color:#fff;
+color:#0000FF;
+font-weight: bold;
+font-size:35px;
 }
 #work p { 
 color:#fff;
@@ -849,10 +851,10 @@ color:#fff;
 	text-transform: uppercase;
 }
 #portfolio .filters li a, #portfolio .filters li a:hover, #portfolio .filters li a:focus {
-	color: #FFDF00;
+	color: #0000FF;
 }
 #portfolio .filters li a.active {
-	color:#fff !important;
+	color:rgb(252, 4, 4) !important;
 border-bottom: solid #fff 1px;
 }
 #portfolio .items {
@@ -1041,7 +1043,7 @@ footer {
 	height: 110%;
 }
 footer{
-	background: #0B0B0B;
+	background:rgb(191, 250, 247);
 }
 footer h4{
 font-size:24px;	
@@ -1069,7 +1071,7 @@ border-radius: 0px;
 border: 1px solid #2D2D2D;
 }
 footer .col.col-social-icons i:hover{
-color:#FFDF00;
+color:#0000FF;
 }
 footer input.form-control{
 	padding: 18px 10px;
